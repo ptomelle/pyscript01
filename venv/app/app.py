@@ -135,19 +135,6 @@ def canvas():
     ctx.stroke()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 def main():
    App.dizModel = init_app_Model()
    App.dom = DOMDict()
